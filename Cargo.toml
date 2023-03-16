@@ -1,12 +1,12 @@
 [package]
-name = "color-eyre"
+name = "color-eyre-attach-report"
 version = "0.6.2"
 authors = ["Jane Lusby <jlusby@yaah.dev>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
-description = "An error report handler for panics and eyre::Reports for colorful, consistent, and well formatted error reports for all kinds of errors."
-repository = "https://github.com/yaahc/color-eyre"
-documentation = "https://docs.rs/color-eyre"
+description = "An error report handler for panics and eyre::Reports for colorful, consistent, and well formatted error reports for all kinds of errors. This fork adds the ability to attach new reports to existing reports."
+repository = "https://github.com/SergeyKasmy/color-eyre-attach-report"
+documentation = "https://docs.rs/color-eyre-attach-report"
 readme = "README.md"
 categories = []
 keywords = []
